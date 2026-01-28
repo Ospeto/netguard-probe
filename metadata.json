@@ -1,0 +1,5 @@
+{
+  "name": "Better Telegram",
+  "description": "A network diagnostic tool to detect GFW bandwidth throttling on proxy connections using real-time speed analysis and Gemini AI insights.",
+  "requestFramePermissions": []
+}
